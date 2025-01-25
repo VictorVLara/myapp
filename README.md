@@ -1,6 +1,6 @@
-# myapp
+# Primeiro APP
 
-A new Flutter project.
+Desenvolvimento do primeiro programa em Flutter utilizando o Project IDX.
 
 ## Getting Started
 
